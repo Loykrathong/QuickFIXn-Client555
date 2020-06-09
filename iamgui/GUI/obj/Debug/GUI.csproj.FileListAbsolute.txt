@@ -1,0 +1,10 @@
+C:\Users\surawut\Desktop\iamgui\GUI\bin\Debug\GUI.exe.config
+C:\Users\surawut\Desktop\iamgui\GUI\bin\Debug\GUI.exe
+C:\Users\surawut\Desktop\iamgui\GUI\bin\Debug\GUI.pdb
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.exe
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.pdb
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\surawut\Desktop\iamgui\GUI\obj\Debug\GUI.Form1.resources
